@@ -67,8 +67,8 @@ export class CartaComponent {
 
   readonly sections: MenuSection[] = [
     { titulo: 'Empanadas', imagen: 'empanadas.png', alt: 'Carta de empanadas', items: EMPANADAS },
-    { titulo: 'Pizzas', imagen: 'pizzas.png', alt: 'Carta de pizzas', items: PIZZAS },
-    { titulo: 'Postres', imagen: 'postres.jpg', alt: 'Carta de postres', items: POSTRES },
+    { titulo: 'Pizzas', imagen: 'cartaPizza.png', alt: 'Carta de pizzas', items: PIZZAS },
+    { titulo: 'Postres', imagen: 'postre.jpg', alt: 'Carta de postres', items: POSTRES },
     { titulo: 'Cheesecakes', imagen: 'cheesecakes.jpg', alt: 'Cheesecakes Sabores Argentinos', items: CHEESECAKES },
     { titulo: 'Bebidas', imagen: 'bebidas.jpg', alt: 'Carta de bebidas', items: BEBIDAS }
   ];

@@ -14,7 +14,7 @@ import {
     <footer class="site-footer">
       <div class="container footer-inner">
         <div class="footer-brand">
-          <strong>{{ marca.nombre }} 🇦🇷</strong>
+          <strong>{{ marca.nombre }} </strong>
           <p>{{ marca.frasePrincipal }}</p>
         </div>
 

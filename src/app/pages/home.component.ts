@@ -57,7 +57,7 @@ import {
           </article>
 
           <article class="card">
-            <img class="card-image" src="pizzas.png" alt="Carta ilustrativa de pizzas" />
+            <img class="card-image" src="cartaPizza.png" alt="Carta ilustrativa de pizzas" />
             <h3>Pizzas caseras</h3>
             <p>Muzzas, caprese, fugazeta, napolitana y otras variedades para compartir.</p>
           </article>

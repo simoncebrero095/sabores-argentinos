@@ -9,9 +9,9 @@ import { MARCA, WHATSAPP_URL } from '../site-data';
     <header class="site-header">
       <div class="container header-inner">
         <a class="brand" routerLink="/" (click)="closeMenu()">
-          <img src="/home/linux-pc/Documentos/Sabores Argentino/pagina web/sabores-argentinos/src/assets/logo.png" alt="Logo Sabores Argentinos" />
+          <img src="logo.png" alt="Logo Sabores Argentinos"/>
           <div class="brand-copy">
-            <strong>{{ marca.nombre }}</strong>
+            <strong>{{ marca.nombre }} 🇦🇷</strong>
             <span>{{ marca.slogan }}</span>
           </div>
         </a>
