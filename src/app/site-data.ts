@@ -21,7 +21,7 @@ export const TIKTOK_URL =
   'https://www.tiktok.com/@sabores.argentinos25';
 
 export const MAPS_URL =
-  'https://maps.google.com/?q=Belgrano+577+Malague%C3%B1o+C%C3%B3rdoba';
+  'https://www.google.com/maps/place/Sabores+Argentinos/@-31.4627764,-64.3756363,15z/data=!4m6!3m5!1s0x942d5f5fe46a5ea9:0xc030fa1f53462300!8m2!3d-31.462796!4d-64.3571824!16s%2Fg%2F11n3czrftb?entry=ttu&g_ep=EgoyMDI2MDQyMC4wIKXMDSoASAFQAw%3D%3D';
 
 export const DELIVERY_ZONAS = [
   'Malagueño',
