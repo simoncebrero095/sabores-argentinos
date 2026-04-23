@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/sabores-argentinos": {},
+    "/sabores-argentinos/carta": {},
+    "/sabores-argentinos/catering": {},
+    "/sabores-argentinos/contacto": {}
+  }
+}
