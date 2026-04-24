@@ -1,5 +1,8 @@
 import { createRequire } from 'module';const require = createRequire(import.meta.url);
 import {
+  index
+} from "./chunk-WC4PITUE.js";
+import {
   ActivatedRoute,
   ROUTES,
   Router,
@@ -68,9 +71,6 @@ import {
   ɵɵdefineNgModule,
   ɵɵinject
 } from "./chunk-IBC4FN27.js";
-import {
-  index
-} from "./chunk-WC4PITUE.js";
 import {
   __objRest,
   __spreadProps,
@@ -12530,4 +12530,4 @@ export {
   AngularAppEngine,
   createRequestHandler
 };
-//# sourceMappingURL=chunk-5AFBOAF6.js.map
+//# sourceMappingURL=chunk-DYFEVOVZ.js.map
