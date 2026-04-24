@@ -31,15 +31,17 @@ export const DELIVERY_ZONAS = [
 ];
 
 export const EMPANADAS: MenuItem[] = [
-  { nombre: 'Árabes', descripcion: 'Masa casera.' },
-  { nombre: 'Osobuco', descripcion: 'Estofado de osobuco.' },
+  { nombre: 'Árabes', descripcion: 'Sabor intenso y fresco.' },
+  { nombre: 'Osobuco', descripcion: 'Carne de osobuco desmechada.' },
   { nombre: 'Roquefort & Nuez', descripcion: 'Roquefort y nuez.' },
-  { nombre: '4 Quesos', descripcion: 'Mozzarella, roquefort, parmesano y provolone.' },
+  { nombre: '4 Quesos', descripcion: 'Mozzarella, roquefort, parmesano y tybo.' },
   { nombre: 'Jamón & Queso', descripcion: 'Jamón cocido y mozzarella.' },
-  { nombre: 'Criollas', descripcion: 'Saladas, dulces o picantes.' },
+  { nombre: 'Criollas Saladas', descripcion: 'Clásica y bien sabrosa.' },
+  { nombre: 'Criollas Dulces', descripcion: 'Dulce sabor argentino con pasa uva.' },
+  { nombre: 'Criollas Picantes', descripcion: 'Picante con actitud.' },
   { nombre: 'Cheeseburger', descripcion: 'Carne, cheddar, panceta y cebolla grillada.' },
   { nombre: 'Caprese', descripcion: 'Mozzarella, tomate y albahaca.' },
-  { nombre: 'Cebolla caramelizada & muzzarella', descripcion: 'Una opción suave y bien sabrosa.' }
+  { nombre: 'Fugazza', descripcion: 'Una opción suave y bien sabrosa.' }
 ];
 
 export const PIZZAS: MenuItem[] = [
@@ -67,12 +69,12 @@ export const CHEESECAKES: MenuItem[] = [
 ];
 
 export const BEBIDAS: MenuItem[] = [
-  { nombre: '7Up 2.25L', descripcion: 'Refrescante lima-limón.' },
-  { nombre: 'Pepsi', descripcion: 'El clásico sabor a cola.' },
-  { nombre: 'Pritty Limón', descripcion: 'Sabor a limón y naranja.' },
+  { nombre: 'Coca Retonable 2L', descripcion: 'Refrescante lima-limón.' },
+  { nombre: 'Pepsi 2L', descripcion: 'El clásico sabor a cola.' },
+  { nombre: 'Pritty Limón 1,5L', descripcion: 'Sabor a limón y naranja.' },
   { nombre: 'Vinos', descripcion: 'Malbec y Cabernet Malbec.' },
   { nombre: 'Cervezas', descripcion: 'Beta IPA, Oktoberfest y cerveza de miel.' },
-  { nombre: 'Maleficio', descripcion: 'Gin y vodka para cócteles.' },
+  { nombre: 'Maleficio', descripcion: 'Gin y Vodka.' },
   { nombre: 'Tónica', descripcion: 'Rumipal Bartender.' },
   { nombre: 'Speed', descripcion: 'Energizante en lata.' }
 ];
