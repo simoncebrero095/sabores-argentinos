@@ -77,7 +77,7 @@ export const BEBIDAS: MenuItem[] = [
   { nombre: 'Speed XL', descripcion: '' },
   { nombre: 'Vinos Tinto', descripcion: 'Merlot Malbec, Malbec y Cabernet Malbec.' },
   { nombre: 'Vinos Blanco', descripcion: 'Chenin-Chardonnay Dulce y Chardonnay.' },
-  { nombre: 'Cervezas', descripcion: 'Beta IPA, Oktoberfest y cerveza de miel.' },
-  { nombre: 'Maleficio', descripcion: 'Gin y Vodka.' },
+  { nombre: 'Cervezas', descripcion: 'Beta IPA (IPA clásica lupulada), Mexican Lager (Rubia y ligera), Oktoberfest (Roja maltosa y dulce) Honigbier (Rubia dorada c/ miel).' },
+  { nombre: 'Maleficio', descripcion: 'Gin DRY (Destilado de 7 botánicos). Vodka artesanal (ORIGINAL, FRAMBUESA, MANZANA) para el alma de la noche.'},
   { nombre: 'Fernet', descripcion: 'Fernet Branca.' }
 ];

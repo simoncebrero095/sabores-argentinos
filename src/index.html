@@ -6,6 +6,20 @@
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+ 
+  <!-- Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B22WJD0MPN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  // Evita doble conteo en Angular SPA
+  gtag('config', 'G-B22WJD0MPN', {
+    send_page_view: false
+  });
+</script>
+
 </head>
 <body>
   <app-root></app-root>
