@@ -41,7 +41,7 @@ export const EMPANADAS: MenuItem[] = [
   { nombre: 'Criollas Picantes', descripcion: 'Picante con actitud.' },
   { nombre: 'Cheeseburger', descripcion: 'Carne, cheddar, panceta y cebolla grillada.' },
   { nombre: 'Caprese', descripcion: 'Mozzarella, tomate y albahaca.' },
-  { nombre: 'Fugazza', descripcion: 'Una opción suave y bien sabrosa.' }
+  { nombre: 'Fugazeta', descripcion: 'Una opción suave y bien sabrosa.' }
 ];
 
 export const PIZZAS: MenuItem[] = [
@@ -50,7 +50,7 @@ export const PIZZAS: MenuItem[] = [
   { nombre: 'Fugazeta', descripcion: 'Mozzarella y abundante cebolla con aceitunas.' },
   { nombre: 'Napolitana', descripcion: 'Mozzarella, tomate, ajo, orégano y aceitunas verdes.' },
   { nombre: 'Provenzal', descripcion: 'Mozzarella, ajo y perejil con aceitunas.' },
-  { nombre: '4 Quesos', descripcion: 'Mozzarella, roquefort, provolone y parmesano.' },
+  { nombre: '4 Quesos', descripcion: 'Mozzarella, roquefort, parmesano y tybo.' },
   { nombre: 'Calabresa', descripcion: 'Mozzarella, calabresa y aceitunas.' },
   { nombre: 'Caprese', descripcion: 'Mozzarella, tomate, albahaca fresca y aceitunas verdes.' }
 ];
@@ -59,8 +59,8 @@ export const POSTRES: MenuItem[] = [
   { nombre: 'Tiramisú', descripcion: 'Capas suaves de mascarpone y vainillas embebidas en café.' },
   { nombre: 'Chocotorta', descripcion: 'Capas de galletitas de chocolate y dulce de leche cremoso.' },
   { nombre: 'Chajá de durazno', descripcion: 'Bizcochuelo, dulce de leche, crema, duraznos y merengue.' },
-  { nombre: 'Alfajor de maicena', descripcion: 'Masa tierna con abundante dulce de leche repostero.' },
-  { nombre: 'Alfajor de chocolate', descripcion: 'Masa suave con baño de chocolate semiamargo.' }
+  { nombre: 'Cheesecake de frutos rojos', descripcion: 'Base crocante, queso cremoso y frutos rojos.' },
+  { nombre: 'Cheesecake de maracuyá', descripcion: 'Base crocante, queso cremoso y sabor tropical.' }
 ];
 
 export const CHEESECAKES: MenuItem[] = [
@@ -69,14 +69,15 @@ export const CHEESECAKES: MenuItem[] = [
 ];
 
 export const BEBIDAS: MenuItem[] = [
-  { nombre: 'Coca Retonable 2L', descripcion: 'Refrescante con mucho gas.' },
-  { nombre: 'Pepsi 2L', descripcion: 'El clásico sabor a cola.' },
-  { nombre: 'Pritty Limón 1,5L', descripcion: 'Sabor a limón y naranja.' },
+  { nombre: 'Coca Retonable 2L', descripcion: '' },
+  { nombre: 'Pepsi 2L', descripcion: '' },
+  { nombre: 'Pritty Limón 1,5L', descripcion: '' },
+  { nombre: 'Coca  500 Ml', descripcion: '' },
+  { nombre: 'Tónica 1,5L', descripcion: '' },
+  { nombre: 'Speed XL', descripcion: '' },
   { nombre: 'Vinos Tinto', descripcion: 'Merlot Malbec, Malbec y Cabernet Malbec.' },
   { nombre: 'Vinos Blanco', descripcion: 'Chenin-Chardonnay Dulce y Chardonnay.' },
   { nombre: 'Cervezas', descripcion: 'Beta IPA, Oktoberfest y cerveza de miel.' },
   { nombre: 'Maleficio', descripcion: 'Gin y Vodka.' },
-  { nombre: 'Fernet', descripcion: 'Fernet Branca.' },
-  { nombre: 'Tónica', descripcion: 'Rumipal Bartender.' },
-  { nombre: 'Speed', descripcion: 'Energizante en lata.' }
+  { nombre: 'Fernet', descripcion: 'Fernet Branca.' }
 ];
