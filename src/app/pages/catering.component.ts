@@ -16,6 +16,26 @@ import { WHATSAPP_URL } from '../site-data';
           </p>
         </div>
 
+        <div class="grid-3 catering-gallery">
+          <article class="card catering-photo">
+            <img src="empanadas.png" alt="Empanadas para servicio de catering" />
+            <h3>Empanadas para eventos</h3>
+            <p>Producción artesanal para reuniones, fiestas y celebraciones.</p>
+          </article>
+
+          <article class="card catering-photo">
+            <img src="postre.jpg" alt="Postres para mesas dulces de catering" />
+            <h3>Mesas dulces</h3>
+            <p>Postres con identidad visual fuerte para destacar tu evento.</p>
+          </article>
+
+          <article class="card catering-photo">
+            <img src="don_repulgue.png" alt="Mascota Sabores Argentinos para branding de catering" />
+            <h3>Marca con personalidad</h3>
+            <p>Estética retro, pop y de alto contraste para una propuesta memorable.</p>
+          </article>
+        </div>
+
         <div class="grid-3">
           <article class="card">
             <h3>Mesas dulces</h3>
