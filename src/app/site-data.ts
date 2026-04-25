@@ -69,12 +69,14 @@ export const CHEESECAKES: MenuItem[] = [
 ];
 
 export const BEBIDAS: MenuItem[] = [
-  { nombre: 'Coca Retonable 2L', descripcion: 'Refrescante lima-limón.' },
+  { nombre: 'Coca Retonable 2L', descripcion: 'Refrescante con mucho gas.' },
   { nombre: 'Pepsi 2L', descripcion: 'El clásico sabor a cola.' },
   { nombre: 'Pritty Limón 1,5L', descripcion: 'Sabor a limón y naranja.' },
-  { nombre: 'Vinos', descripcion: 'Malbec y Cabernet Malbec.' },
+  { nombre: 'Vinos Tinto', descripcion: 'Merlot Malbec, Malbec y Cabernet Malbec.' },
+  { nombre: 'Vinos Blanco', descripcion: 'Chenin-Chardonnay Dulce y Chardonnay.' },
   { nombre: 'Cervezas', descripcion: 'Beta IPA, Oktoberfest y cerveza de miel.' },
   { nombre: 'Maleficio', descripcion: 'Gin y Vodka.' },
+  { nombre: 'Fernet', descripcion: 'Fernet Branca.' },
   { nombre: 'Tónica', descripcion: 'Rumipal Bartender.' },
   { nombre: 'Speed', descripcion: 'Energizante en lata.' }
 ];
